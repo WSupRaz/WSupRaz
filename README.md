@@ -1,14 +1,20 @@
-🚀 Himanshu Patel | Gen AI Engineer
+🚀 Himanshu Patel | Gen AI Engineer | AI Systems Builder
 
-I build **AI-powered systems that automate workflows, generate leads, and scale businesses.**
+I build **production-ready AI systems** that automate workflows, generate leads, and replace manual business operations.
+
+⚡ Built 4+ live AI systems
+⚡ Specialized in RAG, LLM apps & automation
+⚡ Focused on real-world business use cases
 
 ---
 
-## ⚡ Live AI Systems
+⚡ Live AI Systems
 
-### 🧠 BizPilot AI (Business Operating System)
+🧠 BizPilot AI — AI Business Operating System (Live)
 
 👉 https://bizpilot-ai.streamlit.app/
+
+🚀 Replaces manual business operations with AI-powered workflows
 
 * CRM + Leads Management
 * Task Automation
@@ -17,25 +23,43 @@ I build **AI-powered systems that automate workflows, generate leads, and scale 
 
 ---
 
-### 🏠 Real Estate AI Chatbot
+🏠 Real Estate AI Chatbot (Live)
 
-AI chatbot that handles queries, qualifies leads, and automates follow-ups.
+👉 https://real-estate-ai-bot-fsv2uu33pvp4mubhecusyt.streamlit.app/
 
----
+AI chatbot that handles property queries, qualifies leads, and automates follow-ups.
 
-### 📄 Multi-PDF Knowledge Base (RAG)
-
-Ask questions from multiple documents using AI.
-
----
-
-### ✍️ AI Content Generator
-
-Generate high-converting content using LLMs.
+* 24/7 automated customer interaction
+* Lead qualification system
+* Reduces manual sales effort
 
 ---
 
-## 🛠 Tech Stack
+📄 Multi-PDF AI Knowledge Base (RAG) (Live)
+
+👉 https://multi-pdf-ai-knowledge-base-fj9ewhiyxcjhmbhchg9xk8.streamlit.app/
+
+AI system that allows querying multiple documents using natural language.
+
+* RAG-based architecture
+* FAISS + embeddings
+* Instant document search & Q&A
+
+---
+
+✍️ AI Content Generator (Live)
+
+👉 https://ai-content-generator-3j2fvb7q7wzvvwybgkvue3.streamlit.app/
+
+Generates high-converting content using LLMs.
+
+* Viral hooks, captions, scripts
+* SEO-optimized content
+* Built for creators & marketers
+
+---
+
+🛠 Tech Stack
 
 * Python
 * Streamlit
@@ -46,12 +70,22 @@ Generate high-converting content using LLMs.
 
 ---
 
-## 🚀 What I'm Doing Now
+🚀 What I'm Doing Now
 
-Building **real-world AI systems that businesses actually use.**
+Building **AI systems that businesses actually use to save time, increase efficiency, and scale faster.**
 
 ---
 
-## 📫 Connect With Me
+📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=WSupRaz\&show_icons=true\&theme=radical)
+
+---
+
+📫 Connect With Me
 
 👉 LinkedIn: https://www.linkedin.com/in/himanshu-patel-5195501a2/
+
+---
+
+💡 I don’t just build projects — I build systems businesses actually use.
