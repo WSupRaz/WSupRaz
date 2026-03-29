@@ -1,4 +1,3 @@
-<img width="1024" height="1536" alt="ChatGPT Image Mar 22, 2026, 01_18_37 PM" src="https://github.com/user-attachments/assets/06d9340a-cfc5-4984-8fa2-8b1a75b82e3f" />
 🚀 Himanshu Patel | Gen AI Engineer
 
 I build **AI-powered systems that automate workflows, generate leads, and scale businesses.**
