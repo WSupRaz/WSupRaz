@@ -1,4 +1,5 @@
-<img width="1285" height="575" alt="image" src="https://github.com/user-attachments/assets/098fca7e-dc97-4c99-80eb-8c886e20ee2e" /># 🚀 Himanshu Patel | Gen AI Engineer
+<img width="1024" height="1536" alt="ChatGPT Image Mar 22, 2026, 01_18_37 PM" src="https://github.com/user-attachments/assets/06d9340a-cfc5-4984-8fa2-8b1a75b82e3f" />
+🚀 Himanshu Patel | Gen AI Engineer
 
 I build **AI-powered systems that automate workflows, generate leads, and scale businesses.**
 
