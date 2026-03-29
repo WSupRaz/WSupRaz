@@ -1,91 +1,66 @@
-🚀 Himanshu Patel | Gen AI Engineer | AI Systems Builder
+# 🚀 Himanshu Patel | Gen AI Engineer | AI Systems Builder
 
-I build **production-ready AI systems** that automate workflows, generate leads, and replace manual business operations.
-
-⚡ Built 4+ live AI systems
-⚡ Specialized in RAG, LLM apps & automation
-⚡ Focused on real-world business use cases
+I build AI-powered systems that automate workflows, generate leads, and scale businesses.
 
 ---
 
-⚡ Live AI Systems
+## ⚡ Live AI Systems
 
-🧠 BizPilot AI — AI Business Operating System (Live)
-
+### 🧠 BizPilot AI (Business Operating System)
 👉 https://bizpilot-ai.streamlit.app/
 
-🚀 Replaces manual business operations with AI-powered workflows
-
-* CRM + Leads Management
-* Task Automation
-* Reports Dashboard
-* Role-based system
+- CRM + Leads Management  
+- Task Automation  
+- Reports Dashboard  
+- Role-based system  
 
 ---
 
-🏠 Real Estate AI Chatbot (Live)
-
+### 🏡 Real Estate AI Chatbot  
 👉 https://real-estate-ai-bot-fsv2uu33pvp4mubhecusyt.streamlit.app/
 
-AI chatbot that handles property queries, qualifies leads, and automates follow-ups.
-
-* 24/7 automated customer interaction
-* Lead qualification system
-* Reduces manual sales effort
+- Handles customer queries  
+- Qualifies leads automatically  
+- Automates follow-ups  
 
 ---
 
-📄 Multi-PDF AI Knowledge Base (RAG) (Live)
-
+### 📚 Multi-PDF Knowledge Base  
 👉 https://multi-pdf-ai-knowledge-base-fj9ewhiyxcjhmbhchg9xk8.streamlit.app/
 
-AI system that allows querying multiple documents using natural language.
-
-* RAG-based architecture
-* FAISS + embeddings
-* Instant document search & Q&A
+- Upload multiple PDFs  
+- Ask questions using AI  
+- Powered by RAG + FAISS  
 
 ---
 
-✍️ AI Content Generator (Live)
-
+### ✍️ AI Content Generator  
 👉 https://ai-content-generator-3j2fvb7q7wzvvwybgkvue3.streamlit.app/
 
-Generates high-converting content using LLMs.
-
-* Viral hooks, captions, scripts
-* SEO-optimized content
-* Built for creators & marketers
+- Generates viral content  
+- YouTube + LinkedIn scripts  
+- Hooks, captions, hashtags  
 
 ---
 
-🛠 Tech Stack
+## 🚀 What I'm Doing Now
 
-* Python
-* Streamlit
-* LangChain
-* FAISS
-* OpenAI APIs
-* n8n (Automation)
-
----
-
-🚀 What I'm Doing Now
-
-Building **AI systems that businesses actually use to save time, increase efficiency, and scale faster.**
+Building AI systems that businesses actually use to save time, increase efficiency, and scale faster.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wsupraz&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsupraz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsupraz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wsupraz&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
-📫 Connect With Me
+## 🤝 Connect With Me
 
-👉 LinkedIn: https://www.linkedin.com/in/himanshu-patel-5195501a2/
+👉 LinkedIn: https://www.linkedin.com/in/himanshu-patel-5195501a2/  
 
 ---
 
